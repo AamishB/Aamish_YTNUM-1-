@@ -58,21 +58,25 @@ https://www.figma.com/design/9vRKEi9rqn2bGKupMzptXA/Aamish_YTNUM-1-?node-id=0-1&
 Below are key screens from the prototype, showcasing the design and interactions.
 
 1. **Video Player Screen (Blossom Empty)** 🌼
+   
    Displays the initial video player with the empty blossom icon.  
    ![image](https://github.com/user-attachments/assets/81cd3f92-a914-445d-8c6d-9fe3ab795791)
 
 
-2. **Video Player with Tooltip** 💬
+3. **Video Player with Tooltip** 💬
+   
    Shows the tooltip triggered by tapping the blossom, suggesting a break.  
    ![image](https://github.com/user-attachments/assets/dc5ae4c5-c522-40c2-a0b8-5bba64d6a366)
 
 
-3. **Mindful Break Overlay (Initial)** 🧘
+5. **Mindful Break Overlay (Initial)** 🧘
+   
    The overlay with a stretch prompt and progress ring (empty state).  
    ![image](https://github.com/user-attachments/assets/79387e78-c93c-471b-b3c6-8efc1312125b)
 
 
-4. **Mindful Break Overlay (Pause State)** 🔄
+7. **Mindful Break Overlay (Pause State)** 🔄
+   
    The overlay during a 30-second pause, with a filled progress ring and pulsing card.  
    ![image](https://github.com/user-attachments/assets/d40f5445-2c5b-4ddb-9c73-66f7c67a82e7)
 
